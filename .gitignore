@@ -1,0 +1,6 @@
+# Pattern for files/directories to be ignored
+.idea/
+.DS_Store
+.DS_Store?
+._*
+.ipynb_checkpoints
