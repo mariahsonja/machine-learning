@@ -32,7 +32,7 @@ In unsupervised learning only input data is provided.
 
 - **Popular Algorithms:** *k-means* (clustering) and *Apriori* (association).
 
-- [Examples in this repo](./unsupervised_learning)
+- [Examples in this repo](./unsupervised-learning)
 
 
 ### Reinforcement Machine Learning
@@ -43,7 +43,7 @@ In reinforcement learning the data is used to train an agent to learn to make de
 
 - **Popular Algorithms:** *Q-learning* and *SARSA* (State-Action-Reward-State-Action). 
 
-- [Examples in this repo](.reinforcement_learning)
+- [Examples in this repo](./reinforcement-learning)
 
 
 
